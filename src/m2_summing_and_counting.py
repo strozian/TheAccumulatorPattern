@@ -115,7 +115,7 @@ def sum_more_cosines(m, n):
 def test_count_sines_from():
     """ Tests the   count_sines_from   function. """
     # ------------------------------------------------------------------
-    # TODO: 4. Implement this TEST function.
+    # Done: 4. Implement this TEST function.
     #   It TESTS the  count_sines_from  function defined below.
     #   Include at least **   6   ** tests (we wrote one for you).
     #              ** Yes, 6 (six) tests. **
